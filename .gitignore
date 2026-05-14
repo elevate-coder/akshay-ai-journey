@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+.env
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+=======
+/venv
+.DS_Store
+.vscode/
+>>>>>>> 46109fe9666b1a61fb89f543d90a27d56c18b6ed
+deploy.py
