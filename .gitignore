@@ -10,3 +10,9 @@ __pycache__/
 .vscode/
 >>>>>>> 46109fe9666b1a61fb89f543d90a27d56c18b6ed
 deploy.py
+venv/
+__pycache__/
+*.pyc
+.env
+mlflow.db
+mlruns/

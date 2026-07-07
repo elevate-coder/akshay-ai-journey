@@ -1,0 +1,37 @@
+NTT DATA AI Services — Capability Overview
+
+NTT DATA is a global digital business and IT services leader with operations
+in 50+ countries and 150,000+ employees. Our AI practice spans four
+key capability areas: AI Strategy, AI Engineering, AI Governance, and AI Adoption.
+
+AI Strategy Services:
+We help enterprises develop multi-year AI roadmaps, assess AI maturity,
+design AI operating models, and build Centre of Excellence (CoE) frameworks.
+Our AI ROI calculator has been used by 200+ enterprises across APAC and MEA.
+
+AI Engineering Services:
+We build production-ready AI solutions including RAG pipelines, agentic AI
+systems, LLM fine-tuning, and MLOps platforms. Our AI factory accelerators
+compress time-to-value from 12 months to 6 weeks for standard AI use cases.
+
+AI Governance Services:
+As the APAC Lead for AI Governance, NTT DATA helps organisations embed
+responsible AI controls, comply with Singapore PDPA and MAS guidelines,
+and implement ISO 42001 AI Management System standards.
+
+AI Adoption Services:
+Our Gen AI Black Belt programme has trained 5,000+ developers across APAC.
+The Yellow Belt curriculum covers Gen AI fundamentals, RAG architecture,
+agentic AI, and responsible deployment across 14 countries.
+
+Key Clients:
+Financial Services: DBS, OCBC, Standard Chartered, UOB
+Manufacturing: Panasonic, Hitachi, Fujitsu
+Healthcare: IHH Healthcare, Parkway Pantai
+Government: Singapore EDB, Enterprise Singapore
+
+Pricing Model:
+AI Strategy engagements: SGD 80,000 - 250,000
+AI Engineering projects: SGD 150,000 - 800,000
+AI Governance programmes: SGD 50,000 - 180,000
+Managed AI services: SGD 15,000 - 45,000 per month
