@@ -1,0 +1,9 @@
+{
+    "timestamp": "2026-07-08T08:27:15.313445",
+    "question": "what does this document do?",
+    "response": {
+        "answer": "Based on the provided document, Generative AI helps improve automation, decision-making, and knowledge retrieval.",
+        "confidence": "medium",
+        "source_used": true
+    }
+}
